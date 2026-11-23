@@ -53,7 +53,7 @@ requirements.txt                                  Python packages
 
 - Milestone 1: research protocol and exploration notebook
 - Milestone 2: models, evaluation, and preliminary findings (notebook 02)
-- Final: leave-one-project-out check, bootstrap interval, top code words, paper, and 5-minute talk
+- Final: leave-one-project-out check, bootstrap interval, top code words, paper, and presentation
 
 ## Contribution statement
 
